@@ -1,5 +1,6 @@
 # Chrome Dino Automation
 - This project automates the Chrome Dino game.
+- It is a basic Robotic Process Automation (RPA) project, which detects change in pixel color in a specific location to make the dinosaur jump or duck accordingly.
 - It uses simple image processing to detect cacti and pterodactyls.
 - I'm using a program to automate the game so it might violate Google's Terms of Services, I don't have any idea regarding this.
 - It even broke my record of 832 by 1044.
